@@ -1,5 +1,5 @@
 # Backend-Weather-App
-a backend server with [gin](https://github.com/gin-gonic/gin) to check the weather info of HK for coming 9 days
+a backend server with [gin](https://github.com/gin-gonic/gin) and [gjson](https://github.com/tidwall/gjson) to check the weather info of HK for coming 9 days
 
 # Usage
 ## URL
